@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ## Certifications
- - Cybersecurity Certification, Google 
+ - Cybersecurity Certification, Google [Google Cybersecurity Certificate]([https://drive.google.com/file/d/1z7Dxp_GEhqSVN_sAcMYubxREwsF9ls8e/view?usp=sharing)
+
 
 ## Objective
 My objective is to cultivate my expertise in cybersecurity through an entry-level position as a cyber analyst, with a keen aspiration to delve into ethical hacking, particularly in the realms of red teaming and cloud security.
+
+
 ## Cybersecurity Projects
  
  - Conducting a security audit
