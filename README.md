@@ -1,11 +1,20 @@
 ### Hi there 👋
 
 ## Certifications
- - Cybersecurity Certification, Google [Google Cybersecurity Certificate]([https://drive.google.com/file/d/1z7Dxp_GEhqSVN_sAcMYubxREwsF9ls8e/view?usp=sharing)
+ ![Google Cybersecurity Certificate Badge](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-FF0000?style=for-the-badge&logo=Google&logoColor=white&link=https://drive.google.com/file/d/1z7Dxp_GEhqSVN_sAcMYubxREwsF9ls8e/view?usp=sharing)
+
+
 
 
 ## Objective
 My objective is to cultivate my expertise in cybersecurity through an entry-level position as a cyber analyst, with a keen aspiration to delve into ethical hacking, particularly in the realms of red teaming and cloud security.
+
+## Skills
+- Beginner-level Python
+- Linux
+- SQL
+- Security Information and Event Management (SIEM) tools
+- Intrusion Detection Systems (IDS)
 
 
 ## Cybersecurity Projects
