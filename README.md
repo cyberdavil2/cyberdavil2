@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Derick 👋
 
 ## Certifications
  ![Google Cybersecurity Certificate Badge](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-FF0000?style=for-the-badge&logo=Google&logoColor=white&link=https://drive.google.com/file/d/1z7Dxp_GEhqSVN_sAcMYubxREwsF9ls8e/view?usp=sharing)
